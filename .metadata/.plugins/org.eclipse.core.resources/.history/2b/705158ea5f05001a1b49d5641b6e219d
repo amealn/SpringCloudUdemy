@@ -1,0 +1,26 @@
+package com.formacionbdi.springboot.app.oauth.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.core.GrantedAuthority;
+import org.springframework.security.core.userdetails.User;
+import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.security.core.userdetails.UserDetailsService;
+import org.springframework.security.core.userdetails.UsernameNotFoundException;
+
+import com.formacionbdi.springboot.app.oauth.clients.UsuarioFeignClient;
+import com.formacionbdi.springboot.app.usuarios.commons.models.entity.Usuario;
+
+public class UsuarioService implements UserDetailsService{
+
+	@Autowired
+	private UsuarioFeignClient client;
+	
+	@Override
+	public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
+		Usuario usuario = client.findByUsername(username);
+		List<GrantedAuthority> authorities = usuario.getRoles();
+		return new User(usuario.getUsername(), usuario.getPassword(), usuario.getEnabled(),
+				true, true, true, authorities);
+	}
+
+}

@@ -5,11 +5,15 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.context.annotation.ComponentScan;
 
-import com.formacionbdi.springboot.app.usuarios.commons.models.entity.Role;
-import com.formacionbdi.springboot.app.usuarios.commons.models.entity.Usuario;
+/*
+ * Con entity scan no funciona, 
+ * con ComponentScan solo me toma usuarios y roles pero sin sus ids
+ * 
+*/
 
-@ComponentScan(basePackages={"com.formacionbdi.springboot.app.usuarios.commons.models.entity"})
-//@ComponentScan({"com.formacionbdi.springboot.app.usuarios"}) //ACA IBA ENTITYSCAN PERO NO FUNCIONABA
+//@ComponentScan(basePackages={"com.formacionbdi.springboot.app.usuarios.commons.models.entity"})
+@EntityScan({"com.formacionbdi.springboot.app.usuarios.commons.models.entity"})
+
 @SpringBootApplication
 public class SpringbootServicioUsuariosApplication {
 
