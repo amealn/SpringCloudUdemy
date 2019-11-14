@@ -6656,3 +6656,638 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2019-11-12 15:51:25,860 [Worker-127: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2019-11-12 15:51:25,876 [Worker-127: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2019-11-12 15:51:25,876 [Worker-127: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 15:51:25,876 [Worker-127: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios\src\test\resources
+2019-11-12 16:04:29,712 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:04:29,714 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-12 16:04:29,719 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-12 16:04:29,721 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:04:29,721 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios\src\test\resources
+2019-11-12 16:23:39,741 [Worker-136: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:23:39,741 [Worker-136: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-12 16:23:39,741 [Worker-136: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 16:23:39,757 [Worker-136: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:23:39,757 [Worker-136: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-12 16:36:35,165 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:36:35,166 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-12 16:36:35,171 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 16:36:35,172 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:36:35,173 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-12 16:39:48,501 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:39:48,504 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-12 16:39:48,511 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 16:39:48,512 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:39:48,512 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-12 16:41:37,721 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:41:37,723 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-12 16:41:37,730 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 16:41:37,731 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:41:37,731 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-12 16:42:42,265 [Worker-144: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:42:42,267 [Worker-144: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-12 16:42:42,272 [Worker-144: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 16:42:42,274 [Worker-144: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:42:42,274 [Worker-144: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-12 16:45:00,497 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:45:00,499 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-12 16:45:00,503 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 16:45:00,509 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:45:00,509 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-12 16:47:18,112 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:47:18,115 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-12 16:47:18,121 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 16:47:18,123 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:47:18,123 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-12 16:52:36,330 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:52:36,332 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-12 16:52:36,341 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 16:52:36,344 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:52:36,344 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-12 16:52:51,364 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:52:51,364 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-12 16:52:51,369 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 16:52:51,371 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 16:52:51,371 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-12 17:40:59,031 [Worker-158: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.formacionbdi.springboot.app.zuul:springboot-servicio-zuul-server:0.0.1-SNAPSHOT @ C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\pom.xml.
+2019-11-12 17:41:00,823 [Worker-158: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-oauth2/2.2.0.RC1/spring-cloud-starter-oauth2-2.2.0.RC1.pom
+2019-11-12 17:41:01,007 [Worker-158: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-oauth2/2.2.0.RC1/spring-cloud-starter-oauth2-2.2.0.RC1.pom
+2019-11-12 17:41:01,268 [Worker-158: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-security-parent/2.2.0.RC1/spring-cloud-security-parent-2.2.0.RC1.pom
+2019-11-12 17:41:01,468 [Worker-158: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-security-parent/2.2.0.RC1/spring-cloud-security-parent-2.2.0.RC1.pom
+2019-11-12 17:41:01,642 [Worker-158: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-security/2.2.0.RC1/spring-cloud-starter-security-2.2.0.RC1.pom
+2019-11-12 17:41:01,829 [Worker-158: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-security/2.2.0.RC1/spring-cloud-starter-security-2.2.0.RC1.pom
+2019-11-12 17:41:02,021 [Worker-158: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-security/2.2.0.RC1/spring-cloud-security-2.2.0.RC1.pom
+2019-11-12 17:41:02,200 [Worker-158: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-security/2.2.0.RC1/spring-cloud-security-2.2.0.RC1.pom
+2019-11-12 17:41:02,598 [Worker-158: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-oauth2/2.2.0.RC1/spring-cloud-starter-oauth2-2.2.0.RC1.jar
+2019-11-12 17:41:02,779 [Worker-158: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-oauth2/2.2.0.RC1/spring-cloud-starter-oauth2-2.2.0.RC1.jar
+2019-11-12 17:41:02,941 [Worker-158: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-security/2.2.0.RC1/spring-cloud-starter-security-2.2.0.RC1.jar
+2019-11-12 17:41:03,119 [Worker-158: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-security/2.2.0.RC1/spring-cloud-starter-security-2.2.0.RC1.jar
+2019-11-12 17:41:03,281 [Worker-158: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-security/2.2.0.RC1/spring-cloud-security-2.2.0.RC1.jar
+2019-11-12 17:41:03,570 [Worker-158: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-security/2.2.0.RC1/spring-cloud-security-2.2.0.RC1.jar
+2019-11-12 17:41:04,135 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 17:41:04,135 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 17:41:04,135 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 17:41:04,137 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 17:41:04,137 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-12 17:41:06,026 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 17:41:06,027 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-12 17:41:06,029 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 17:41:06,029 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 17:41:06,029 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-12 17:41:06,398 [Worker-163: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-oauth2/2.2.0.RC1/spring-cloud-starter-oauth2-2.2.0.RC1-sources.jar
+2019-11-12 17:41:07,596 [Worker-163: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-oauth2/2.2.0.RC1/spring-cloud-starter-oauth2-2.2.0.RC1-sources.jar
+2019-11-12 17:41:07,598 [Worker-163: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-oauth2:2.2.0.RC1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-oauth2:jar:sources:2.2.0.RC1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+2019-11-12 17:41:07,968 [Worker-163: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-security/2.2.0.RC1/spring-cloud-starter-security-2.2.0.RC1-sources.jar
+2019-11-12 17:41:08,620 [Worker-163: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-security/2.2.0.RC1/spring-cloud-starter-security-2.2.0.RC1-sources.jar
+2019-11-12 17:41:08,622 [Worker-163: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-security:2.2.0.RC1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-security:jar:sources:2.2.0.RC1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+2019-11-12 17:41:08,965 [Worker-163: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-security/2.2.0.RC1/spring-cloud-security-2.2.0.RC1-sources.jar
+2019-11-12 17:41:09,197 [Worker-163: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-security/2.2.0.RC1/spring-cloud-security-2.2.0.RC1-sources.jar
+2019-11-12 17:41:09,313 [Worker-163: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-security:2.2.0.RC1
+2019-11-12 17:41:10,328 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 17:41:10,328 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 17:41:10,328 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 17:41:10,330 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 17:41:10,331 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-12 17:41:11,523 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-oauth2/2.2.0.RC1/spring-cloud-starter-oauth2-2.2.0.RC1-javadoc.jar
+2019-11-12 17:41:12,221 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-oauth2/2.2.0.RC1/spring-cloud-starter-oauth2-2.2.0.RC1-javadoc.jar
+2019-11-12 17:41:12,223 [Worker-164: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter-oauth2:2.2.0.RC1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-oauth2:jar:javadoc:2.2.0.RC1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+2019-11-12 17:41:12,570 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-security/2.2.0.RC1/spring-cloud-starter-security-2.2.0.RC1-javadoc.jar
+2019-11-12 17:41:13,279 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-security/2.2.0.RC1/spring-cloud-starter-security-2.2.0.RC1-javadoc.jar
+2019-11-12 17:41:13,281 [Worker-164: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter-security:2.2.0.RC1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-security:jar:javadoc:2.2.0.RC1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+2019-11-12 17:41:34,043 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 17:41:34,044 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-12 17:41:34,046 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 17:41:34,048 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 17:41:34,048 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-12 17:41:46,202 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 17:41:46,203 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-12 17:41:46,211 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 17:41:46,213 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 17:41:46,213 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-12 17:50:18,329 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 17:50:18,329 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-12 17:50:18,344 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-12 17:50:18,344 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-12 17:50:18,344 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-13 09:34:29,746 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-11-13 10:34:58,134 [Worker-14: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 10:35:04,829 [Worker-14: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 10:35:04,837 [Worker-14: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 10:35:04,853 [Worker-14: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 10:35:04,856 [Worker-14: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 10:35:04,857 [Worker-14: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios\src\test\resources
+2019-11-13 10:35:05,662 [Worker-14: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 10:40:27,393 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 10:40:27,396 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 10:40:27,401 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 10:40:27,404 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 10:40:27,404 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios\src\test\resources
+2019-11-13 10:40:28,908 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 10:40:28,909 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 10:40:28,919 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 10:40:28,922 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 10:40:28,923 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-13 10:46:56,215 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 10:46:56,217 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 10:46:56,224 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 10:46:56,227 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 10:46:56,228 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-13 10:54:55,084 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 10:54:55,087 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 10:54:55,093 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 10:54:55,095 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 10:54:55,095 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-13 11:10:10,157 [Worker-38: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 11:10:17,231 [Worker-40: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 11:10:19,122 [Worker-38: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 11:10:19,342 [Worker-38: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 11:22:08,249 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 11:22:08,249 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 11:22:08,249 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 11:22:08,249 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 11:22:08,249 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios\src\test\resources
+2019-11-13 11:59:24,680 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 11:59:24,683 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 11:59:24,688 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 11:59:24,691 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 11:59:24,692 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 12:10:29,609 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:10:29,625 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:10:29,631 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:10:29,631 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:10:29,631 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios\src\test\resources
+2019-11-13 12:12:13,517 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:12:13,517 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:12:13,532 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:12:13,532 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:12:13,532 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios\src\test\resources
+2019-11-13 12:13:13,954 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:13:13,956 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:13:13,962 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:13:13,966 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:13:13,966 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios\src\test\resources
+2019-11-13 12:14:20,984 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:14:20,985 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:14:20,985 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:14:20,985 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:14:20,985 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios\src\test\resources
+2019-11-13 12:15:02,071 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:15:02,071 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:15:02,086 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:15:02,086 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:15:02,086 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios\src\test\resources
+2019-11-13 12:17:19,773 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:17:19,773 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:17:19,788 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:17:19,788 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:17:19,788 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios\src\test\resources
+2019-11-13 12:19:24,654 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:19:24,656 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:19:24,660 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:19:24,663 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:19:24,663 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios\src\test\resources
+2019-11-13 12:20:56,161 [Worker-73: Launching springboot-servicio-item - SpringbootServicioItemApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.formacionbdi.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2019-11-13 12:20:56,504 [Worker-73: Launching springboot-servicio-item - SpringbootServicioItemApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.formacionbdi.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2019-11-13 12:21:00,024 [Worker-69: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.formacionbdi.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2019-11-13 12:21:00,204 [Worker-69: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.formacionbdi.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2019-11-13 12:21:16,403 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:21:16,418 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:21:16,418 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:21:16,418 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:21:16,418 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios\src\test\resources
+2019-11-13 12:21:45,507 [Worker-79: Launching springboot-servicio-item - SpringbootServicioItemApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.formacionbdi.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2019-11-13 12:26:58,216 [Worker-85: Launching springboot-servicio-item - SpringbootServicioItemApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.formacionbdi.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2019-11-13 12:27:30,785 [Worker-80: Launching springboot-servicio-item - SpringbootServicioItemApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.formacionbdi.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2019-11-13 12:29:15,479 [Worker-80: Launching springboot-servicio-item - SpringbootServicioItemApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.formacionbdi.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2019-11-13 12:31:52,454 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:31:52,455 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:31:52,461 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:31:52,465 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:31:52,465 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios\src\test\resources
+2019-11-13 12:32:00,626 [Worker-88: Launching springboot-servicio-item - SpringbootServicioItemApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.formacionbdi.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2019-11-13 12:34:39,197 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:34:39,197 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:34:39,212 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:34:39,212 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:34:39,212 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-item\src\test\resources
+2019-11-13 12:34:53,928 [Worker-92: Launching springboot-servicio-item - SpringbootServicioItemApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.formacionbdi.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2019-11-13 12:37:18,506 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:37:18,507 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:37:18,512 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:37:18,514 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:37:18,514 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-item\src\test\resources
+2019-11-13 12:42:24,776 [Worker-98: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 12:43:47,598 [Worker-92: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 12:54:16,423 [Worker-111: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.formacionbdi.springboot.app.oauth:springboot-servicio-oauth:0.0.1-SNAPSHOT @ C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\pom.xml.
+2019-11-13 12:54:18,142 [Worker-111: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-config/2.2.0.RC2/spring-cloud-starter-config-2.2.0.RC2.pom
+2019-11-13 12:54:18,338 [Worker-111: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-config/2.2.0.RC2/spring-cloud-starter-config-2.2.0.RC2.pom
+2019-11-13 12:54:18,512 [Worker-111: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-config/2.2.0.RC2/spring-cloud-config-2.2.0.RC2.pom
+2019-11-13 12:54:18,703 [Worker-111: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-config/2.2.0.RC2/spring-cloud-config-2.2.0.RC2.pom
+2019-11-13 12:54:18,876 [Worker-111: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-config-client/2.2.0.RC2/spring-cloud-config-client-2.2.0.RC2.pom
+2019-11-13 12:54:19,067 [Worker-111: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-config-client/2.2.0.RC2/spring-cloud-config-client-2.2.0.RC2.pom
+2019-11-13 12:54:19,078 [Worker-111: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 12:54:19,400 [Worker-111: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-config/2.2.0.RC2/spring-cloud-starter-config-2.2.0.RC2.jar
+2019-11-13 12:54:19,579 [Worker-111: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-config/2.2.0.RC2/spring-cloud-starter-config-2.2.0.RC2.jar
+2019-11-13 12:54:19,743 [Worker-111: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-config-client/2.2.0.RC2/spring-cloud-config-client-2.2.0.RC2.jar
+2019-11-13 12:54:20,151 [Worker-111: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-config-client/2.2.0.RC2/spring-cloud-config-client-2.2.0.RC2.jar
+2019-11-13 12:54:20,856 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:54:20,857 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 12:54:20,857 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 12:54:20,859 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:54:20,859 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 12:54:22,987 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 12:54:23,433 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-config/2.2.0.RC2/spring-cloud-starter-config-2.2.0.RC2-sources.jar
+2019-11-13 12:54:24,076 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:54:24,077 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:54:24,079 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 12:54:24,082 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:54:24,083 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 12:54:24,481 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-config/2.2.0.RC2/spring-cloud-starter-config-2.2.0.RC2-sources.jar
+2019-11-13 12:54:24,502 [Worker-111: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-config:2.2.0.RC2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-config:jar:sources:2.2.0.RC2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+2019-11-13 12:54:24,731 [Worker-110: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.formacionbdi.springboot.app.zuul:springboot-servicio-zuul-server:0.0.1-SNAPSHOT @ C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\pom.xml.
+2019-11-13 12:54:24,890 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-config-client/2.2.0.RC2/spring-cloud-config-client-2.2.0.RC2-sources.jar
+2019-11-13 12:54:25,095 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-config-client/2.2.0.RC2/spring-cloud-config-client-2.2.0.RC2-sources.jar
+2019-11-13 12:54:25,157 [Worker-111: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-config-client:2.2.0.RC2
+2019-11-13 12:54:26,124 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:54:26,127 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 12:54:26,127 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 12:54:26,128 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:54:26,129 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-13 12:54:27,670 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:54:27,670 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 12:54:27,670 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 12:54:27,672 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:54:27,672 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 12:54:28,895 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-config/2.2.0.RC2/spring-cloud-starter-config-2.2.0.RC2-javadoc.jar
+2019-11-13 12:54:29,250 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:54:29,250 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:54:29,257 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 12:54:29,260 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:54:29,260 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-13 12:54:29,580 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-config/2.2.0.RC2/spring-cloud-starter-config-2.2.0.RC2-javadoc.jar
+2019-11-13 12:54:29,580 [Worker-111: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter-config:2.2.0.RC2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-config:jar:javadoc:2.2.0.RC2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+2019-11-13 12:54:58,995 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:54:58,996 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 12:54:58,996 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:54:59,015 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:54:59,015 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 12:55:17,010 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:55:17,011 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 12:55:17,011 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:55:17,014 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:55:17,014 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 12:55:31,515 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:55:31,515 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 12:55:31,516 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:55:31,520 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:55:31,521 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-13 12:55:55,175 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:55:55,176 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 12:55:55,176 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 12:55:55,179 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 12:55:55,179 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-13 14:05:39,563 [Worker-123: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 14:07:30,883 [Worker-121: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 14:07:31,052 [Worker-121: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 14:13:26,391 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 14:13:26,393 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 14:13:26,398 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 14:13:26,400 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 14:13:26,400 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 14:15:21,744 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 14:15:21,746 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 14:15:21,754 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 14:15:21,760 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 14:15:21,760 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-13 14:16:00,853 [Worker-130: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 14:16:00,854 [Worker-130: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 14:16:00,859 [Worker-130: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 14:16:00,861 [Worker-130: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 14:16:00,861 [Worker-130: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-13 14:20:39,957 [Worker-131: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 14:22:41,984 [Worker-123: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 14:23:10,158 [Worker-129: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 14:23:23,932 [Worker-141: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 14:24:01,683 [Worker-138: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 14:31:33,743 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-13 14:36:03,816 [Worker-25: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 14:36:04,022 [Worker-25: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 14:39:29,804 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 14:39:29,814 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 14:39:29,836 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 14:39:29,841 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 14:39:29,841 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 14:39:34,177 [Worker-24: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 14:40:25,350 [Worker-26: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 14:41:12,365 [Worker-24: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 14:41:38,939 [Worker-24: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 14:42:51,505 [Worker-20: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 14:46:24,279 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 14:46:24,284 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 14:46:24,290 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 14:46:24,293 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 14:46:24,294 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 14:46:33,552 [Worker-28: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 14:47:01,878 [Worker-28: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 14:47:02,080 [Worker-28: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 15:39:16,308 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 15:39:16,309 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 15:39:16,316 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 15:39:16,325 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 15:39:16,325 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-13 15:50:33,402 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 15:50:33,406 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 15:50:33,416 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 15:50:33,421 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 15:50:33,421 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-zuul-server\src\test\resources
+2019-11-13 15:51:15,138 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 15:51:15,140 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 15:51:15,148 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 15:51:15,150 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 15:51:15,150 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 15:51:31,425 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 15:51:31,428 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 15:51:31,433 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 15:51:31,438 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 15:51:31,439 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 15:57:38,738 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 15:57:38,741 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 15:57:38,747 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 15:57:38,749 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 15:57:38,750 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 15:59:11,759 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 15:59:11,760 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 15:59:11,769 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 15:59:11,773 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 15:59:11,774 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 15:59:34,890 [Worker-63: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 15:59:45,612 [Worker-63: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 16:15:35,750 [Worker-77: Launching springboot-servicio-item - SpringbootServicioItemApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.formacionbdi.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2019-11-13 16:15:36,016 [Worker-77: Launching springboot-servicio-item - SpringbootServicioItemApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.formacionbdi.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2019-11-13 16:15:59,400 [Worker-76: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.formacionbdi.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2019-11-13 16:15:59,550 [Worker-76: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.formacionbdi.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2019-11-13 16:26:42,085 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:26:42,086 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:26:42,094 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:26:42,097 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:26:42,097 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios-commons\src\test\resources
+2019-11-13 16:29:30,530 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-11-13 16:38:57,062 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-11-13 16:38:59,282 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT @ C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios-commons\pom.xml.
+2019-11-13 16:39:00,062 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.formacionbdi.springboot.app.usuarios:springboot-servicio-usuarios:0.0.1-SNAPSHOT @ C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios\pom.xml.
+2019-11-13 16:39:00,682 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 16:39:01,010 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.formacionbdi.springboot.app.oauth:springboot-servicio-oauth:0.0.1-SNAPSHOT @ C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\pom.xml.
+2019-11-13 16:39:01,429 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 16:39:03,951 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-oauth/src/main/java
+2019-11-13 16:39:03,952 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-oauth/src/main/resources
+2019-11-13 16:39:03,952 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-oauth/src/main/resources
+2019-11-13 16:39:03,953 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-oauth/src/test/java
+2019-11-13 16:39:04,615 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-usuarios/src/main/java
+2019-11-13 16:39:04,616 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-usuarios/src/main/resources
+2019-11-13 16:39:04,616 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-usuarios/src/main/resources
+2019-11-13 16:39:04,617 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-usuarios/src/test/java
+2019-11-13 16:39:05,027 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-usuarios-commons/src/main/java
+2019-11-13 16:39:05,029 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-usuarios-commons/src/main/resources
+2019-11-13 16:39:05,032 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-usuarios-commons/src/main/resources
+2019-11-13 16:39:05,035 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-usuarios-commons/src/test/java
+2019-11-13 16:39:06,032 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2019-11-13 16:39:07,076 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:39:07,080 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:39:07,097 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:39:07,102 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:39:07,102 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios-commons\src\test\resources
+2019-11-13 16:39:08,500 [Worker-15: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 16:39:08,641 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:39:08,642 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:39:08,648 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:39:08,670 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:39:08,670 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-usuarios\src\test\resources
+2019-11-13 16:39:10,285 [Worker-15: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 16:39:10,399 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:39:10,402 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:39:10,402 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:39:10,412 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:39:10,412 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 16:41:39,111 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:41:39,114 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:41:39,121 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:41:39,123 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:41:39,124 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 16:41:52,735 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:41:52,736 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:41:52,739 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:41:52,740 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:41:52,741 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 16:42:05,602 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:42:05,602 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:42:05,607 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:42:05,610 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:42:05,610 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 16:42:11,200 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:42:11,200 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:42:11,200 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:42:11,200 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:42:11,200 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 16:42:19,557 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:42:19,559 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:42:19,561 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:42:19,565 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:42:19,565 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 16:43:23,985 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:43:23,985 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:43:23,990 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:43:23,995 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:43:23,995 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 16:45:09,027 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:45:09,029 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:45:09,037 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:45:09,045 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:45:09,045 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 17:04:08,839 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:04:08,842 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:04:08,848 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:04:08,850 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:04:08,850 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 17:06:19,286 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:06:19,286 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:06:19,286 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:06:19,286 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:06:19,286 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 17:06:44,433 [Worker-28: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 17:06:55,033 [Worker-23: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 17:18:54,796 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-11-13 17:19:34,570 [Worker-14: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 17:19:34,812 [Worker-14: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 17:19:53,952 [Worker-6: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 17:19:54,156 [Worker-6: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-13 17:25:28,807 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:25:28,814 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:25:28,831 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:25:28,833 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:25:28,834 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 17:26:21,838 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:26:21,843 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:26:21,850 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:26:21,853 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:26:21,853 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 17:31:09,345 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:31:09,349 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:31:09,356 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:31:09,358 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:31:09,358 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 17:34:16,395 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:34:16,396 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:34:16,400 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:34:16,402 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:34:16,402 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 17:37:44,059 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:37:44,061 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:37:44,067 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:37:44,069 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:37:44,069 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 17:38:57,961 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:38:57,962 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:38:57,967 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:38:57,970 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:38:57,970 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 17:39:37,720 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:39:37,721 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:39:37,727 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:39:37,729 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:39:37,729 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 17:41:41,108 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:41:41,109 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:41:41,114 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:41:41,117 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:41:41,118 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 17:42:47,375 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:42:47,377 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:42:47,381 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:42:47,384 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:42:47,384 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 17:47:16,115 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:47:16,116 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:47:16,121 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:47:16,124 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:47:16,124 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-13 17:48:46,071 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:48:46,073 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:48:46,078 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 17:48:46,080 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 17:48:46,080 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-14 09:41:39,882 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-11-14 09:58:46,264 [Worker-14: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons/target/classes
+2019-11-14 09:58:47,369 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-14 09:58:47,385 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-14 09:58:47,409 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-14 09:58:47,417 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-14 09:58:47,417 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nicolas.l.ameal\Desktop\SpringCloud\workspace\springboot-servicio-oauth\src\test\resources
+2019-11-14 09:59:11,698 [Worker-19: Launching springboot-servicio-oauth - SpringbootServicioOauthApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
+2019-11-14 09:59:20,021 [Worker-13: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons/target/classes
+2019-11-14 09:59:20,360 [Worker-13: Launching springboot-servicio-usuarios - SpringbootServicioUsuariosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons: com.formacionbdi.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-usuarios-commons/target/classes
